@@ -1,0 +1,121 @@
+.grid img{
+     border: 2px solid #000000;
+     border-radius: 50px;
+
+     display:flex;
+     flex-wrap: wrap;
+     justify-content: space-evenly
+}
+
+p,h2{
+    text-align: center;
+}
+
+h2{
+    background-color: red;
+    border: dashed  white;
+}
+
+h3{
+    color:white;
+background-color: blue;
+
+font-family: "italic";
+margin-right: 100px;
+padding-left: 30px;
+
+
+}
+
+
+
+
+.header *
+   
+ {
+     border:solid;
+     border-color:white;
+ }
+
+.origami {
+
+    border-top: blanchedalmond;
+    border-top-left-radius: 25px;
+    border: solid  aqua;
+    border-radius: 20px  ;
+    background-color: #FFFFFF;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family: fantasy;
+
+}
+
+.origami img{
+    border: 2px solid red;
+    border-radius: 50px;
+    
+    
+}
+
+*
+{
+   
+    background-color: magenta;
+    background-clip: content-box;
+    backface-visibility: hidden;
+  
+    
+    
+}
+
+
+
+
+    
+
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    background-color: #000000;
+    padding: 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color:#FFFFFF;
+
+  
+   
+
+}
+body {
+    
+    margin: 50px;
+    background-color:#f7f2f2;
+
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+a:link{
+    color:white;
+}
+
+a:visited{
+    color:blue;
+}
+
+.menu{
+    margin-right: 30px;
+   
+}
+.menu a{
+   margin-left: 20px;
+
+
+
+
+
+}
